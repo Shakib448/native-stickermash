@@ -17,7 +17,8 @@
     "react-native-gesture-handler": "~2.9.0",
     "react-native-reanimated": "~2.14.4",
     "react-native-view-shot": "3.5.0",
-    "expo-media-library": "~15.2.3"
+    "expo-media-library": "~15.2.3",
+    "expo-splash-screen": "~0.18.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
